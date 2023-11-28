@@ -21,7 +21,17 @@
 </div>
 
 ### Навыки и технологии: 
-> Jira > qase.io > SQL > Postman > Swagger > Trello > SoapUI > Git > Chrome DevTools
+> Jira
+> > qase.io
+> > > PostgreSQL
+> > > > Postman
+> > > > > Swagger
+> > > > > > Trello
+> > > > > > > SoapUI
+> > > > > > > > Git
+> > > > > > > > > Chrome DevTools
+> > > > > > > > > > Apache Jmeter
+
 
 
 
