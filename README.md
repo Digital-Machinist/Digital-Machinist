@@ -13,10 +13,14 @@
   <a href="https://vk.com/stsareg">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
+  </div>
+<div align="center">
   <a>
   <img src="https://komarev.com/ghpvc/?username=Digital-Machinist&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
+
+
 
 
 <!--
