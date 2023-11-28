@@ -3,10 +3,10 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
 
 <h3 align="center"> 🌱 Я - начинающий тестировщик 🌱 </h3>
-<h3 align="center"> хотел бы поделиться в этом репозитории своими работами, созданными во время обучения.</h3>
+<h3 align="center"> хотел бы поделиться в этом репозитории некоторыми своими работами, созданными в процессе обучения.</h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/5rT8xqVLpB6S6Ej89o/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/YRzQnWzbn4WIxd3ZYx/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -19,6 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=Digital-Machinist&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
+
 
 
 
