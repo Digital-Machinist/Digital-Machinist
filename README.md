@@ -25,16 +25,16 @@
 > > qase.io
 > > > PostgreSQL
 > > > > Postman
-> > > > >Swagger
-> > > > > Trello
-> > > > > > >SoapUI
-> > > > > > > >Git
+> > > > > Swagger
+> > > > > > Trello
+> > > > > > > SoapUI
+> > > > > > > > Git
 > > > > > > > > > Chrome DevTools
 > > > > > > > > > > Apache Jmeter
 
-
-
-
+## Проекты:
+### Проект 1: 
+https://www.notion.so/1-2-48943106bcf14678baea68c17a2fdf8e?pvs=4
 
 <!--
 **Digital-Machinist/Digital-Machinist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
