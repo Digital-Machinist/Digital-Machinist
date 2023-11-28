@@ -6,7 +6,7 @@
 <h3 align="center"> хотел бы поделиться в этом репозитории некоторыми своими работами, созданными в процессе обучения.</h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/YRzQnWzbn4WIxd3ZYx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/YRzQnWzbn4WIxd3ZYx/giphy.gif" width="150"/>
 </div>
 
 <div id="badges" align="center">
