@@ -78,7 +78,7 @@ https://www.notion.so/1-2-48943106bcf14678baea68c17a2fdf8e?pvs=4
 
 ## Контакты:
 
-- ##E-mail## : sergray2@mail.ru
+- E-mail : sergray2@mail.ru
 
 <!--
 **Digital-Machinist/Digital-Machinist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
