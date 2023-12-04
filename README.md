@@ -32,7 +32,8 @@
 
 Они служат напоминанием, что у преподавателя что-то запланировано на это время.
 
-![image](https://github.com/Digital-Machinist/Digital-Machinist/assets/152184043/cd1d3238-4754-4627-b373-e9021175a03f)
+![Безымянный](https://github.com/Digital-Machinist/Digital-Machinist/assets/152184043/3891dc81-a9cb-419c-bedf-465b3390bfe0)
+
 
 
 #### Что нужно было сделать:
