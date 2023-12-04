@@ -21,16 +21,7 @@
 </div>
 
 ## Навыки и технологии: 
-`Jira`
-> > qase.io
-> > > PostgreSQL
-> > > > Postman
-> > > > > Swagger
-> > > > > > Trello
-> > > > > > > SoapUI
-> > > > > > > > Git
-> > > > > > > > > Chrome DevTools
-> > > > > > > > > > Apache Jmeter
+`Jira`, `qase.io`, `PostgreSQL`, `Postman`, `Swagger`, `Trello`, `SoapUI`, `Git`, `Chrome DevTools`, `Apache Jmeter`
 
 ## Проекты:
 
