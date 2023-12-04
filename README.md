@@ -21,7 +21,7 @@
 </div>
 
 ## Навыки и технологии: 
-' Jira '
+`Jira`
 > > qase.io
 > > > PostgreSQL
 > > > > Postman
