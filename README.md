@@ -2,8 +2,8 @@
 <h1 align="center"> меня зовут <a href="https://vk.com/stsareg" target="_blank">Сергей</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
 
-<h3 align="center"> 🌱 Я - тестировщик WEB, API, Auto QA🌱 </h3>
-<h3 align="center"> хотел бы поделиться в этом репозитории некоторыми своими работами, созданными в процессе обучения</h3>
+<h3 align="center"> Я - тестировщик WEB, API, Auto QA </h3>
+<h3 align="center"> хотел бы поделиться в этом репозитории некоторыми своими работами, созданными в процессе обучения </h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/YRzQnWzbn4WIxd3ZYx/giphy.gif" width="150"/>
